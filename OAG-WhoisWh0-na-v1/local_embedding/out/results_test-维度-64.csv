@@ -1,0 +1,3 @@
+name,num_nodes,true_clusters,pf1,nmi,ari
+jingyin,204,12,0.952059744639846,0.90852,0.94004
+hongyuanchen,458,3,0.9951194679002645,0.93237,0.96427

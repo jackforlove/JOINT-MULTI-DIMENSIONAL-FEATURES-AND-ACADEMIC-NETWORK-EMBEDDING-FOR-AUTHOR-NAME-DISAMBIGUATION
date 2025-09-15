@@ -1,0 +1,3 @@
+name,num_nodes,true_clusters,pf1,nmi,ari
+weiguozhu,372,12,0.8352812506701551,0.66072,0.75158
+weidongtian,368,4,0.9056217216908362,0.73169,0.76642
